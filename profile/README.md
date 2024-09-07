@@ -1,4 +1,4 @@
-# $$\text{🔥 }\text{Hey there, we're SPARK!}^{*}$$
+# $$\text{✨ }\text{Hey there, we're SPARK!}^{*}$$
 
 
 **We're a nonprofit organization dedicated to developing a free & open-source augmentative and alternative communication tool for individuals with speech challenges. [Check out our website ➚](https://spark4speech.com/)**
