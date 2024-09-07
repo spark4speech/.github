@@ -19,7 +19,7 @@ We are committed to providing open-source, customizable, and accessible AAC solu
 
 ## Legal Information
 
-SPARK operates under the fiscal sponsorship of **The Hack Foundation** (d.b.a. Hack Club), a 501(c)(3) public charity with the EIN **81-2908499**. The Hack Foundation has supported SPARK since September 6th, 2024, establishing a restricted fund within its foundation for our operations.
+SPARK operates under the fiscal sponsorship of **[The Hack Foundation](https://the.hackfoundation.org)** (d.b.a. Hack Club), a 501(c)(3) public charity with the EIN **81-2908499**. The Hack Foundation has supported SPARK since September 6th, 2024, establishing a restricted fund within its foundation for our operations.
 
 **All donations** and other funds are processed by The Hack Foundation on behalf of SPARK.
 
