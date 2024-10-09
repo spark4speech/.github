@@ -49,6 +49,7 @@ For more information, partnerships, or press inquiries, you can reach us at:
 
 - **Email**: [inquiries@spark4speech.com](mailto:inquiries@spark4speech.com)
 - **Website**: [https://spark4speech.com](https://spark4speech.com/)
+- **Phone**: [(571) 762-0102](tel:5717620102)
 
 Alternatively, contact our developers directly at [shreyas@spark4speech.com](mailto:shreyas@spark4speech.com) and [catelyn@spark4speech.com](mailto:catelyn@spark4speech.com).
 
