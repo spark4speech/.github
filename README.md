@@ -1,2 +1,3 @@
-# .github
-📖 Organization README and Contribution Guidelines
+# SPARK on GitHub
+
+This repository contains SPARK's GitHub organization profile.
